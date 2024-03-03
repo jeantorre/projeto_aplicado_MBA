@@ -1,0 +1,44 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Rio de Janeiro
+Casos Prováveis por Mês notificação e Ano notificação
+Período:2014-2024
+"Mês notificação";"2013";"2014";"2015";"2016";"2017";"2018";"2019";"2020";"2021";"2022";"2023";"2024";"Total"
+"Janeiro";-;1504;2530;16669;1513;1112;1419;1011;75;78;1324;26095;53330
+"Fevereiro";-;1018;3332;16497;1372;1520;1193;1010;158;236;2835;49630;78801
+"Marco";-;816;9687;17427;1638;2656;2949;870;334;913;6657;-;43947
+"Abril";-;775;14245;18464;1314;2967;7295;499;644;1701;7673;-;55577
+"Maio";-;807;14702;10260;1424;2042;10303;300;457;3066;7856;-;51217
+"Junho";-;557;8415;3662;833;1139;4423;157;382;1765;5263;-;26596
+"Julho";-;407;3885;1934;602;941;1965;154;229;901;2742;-;13760
+"Agosto";-;382;2933;885;434;583;751;118;167;603;2303;-;9159
+"Setembro";-;381;1842;565;336;329;539;111;113;376;1497;-;6089
+"Outubro";-;467;1521;487;447;405;416;110;68;450;1764;-;6135
+"Novembro";-;307;2621;721;483;448;477;127;88;461;3072;-;8805
+"Dezembro";52;439;7953;1045;639;775;546;114;133;535;7266;-;19497
+"Total";52;7860;73666;88616;11035;14917;32276;4581;2848;11085;50252;75725;372913
+ Fonte: Ministério da Saúde/SVSA - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Para os casos prováveis foram incluídas todas notificações, exceto casos descartados.
+ As bases de dados de dengue aqui disponíveis compõem um banco único a partir de 2014, podendo haver pequenas divergências com os dados
+  disponibilizados pelo CGARB (Coordenação Geral de Vigilância de Arboviroses - CGARB) em sua série histórica, que para tal, realiza análise
+  ano a ano, com a base congelada para cada ano analisado.
+ Para tabular os casos graves (classificação final igual a dengue com complicações, febre hemorrágica da dengue, síndrome do choque da dengue,
+ dengue com sinais de alarme e dengue grave) é necessário considerar também o critério de confirmação (laboratorial e clínico-epidemiológico).
+ A partir de 2020 o estado do Espírito Santo passou a utilizar o sistema e-SUS Vigilância em Saúde. Portanto, para os casos de Arboviroses
+ urbanas do Espírito Santo foram considerados apenas os dados disponibilizados pelo Sinan online (dengue e chikungunya) e Sinan Net (zika).
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos e semana epidemiológica, em cada período pode apresentar
+ notificações com data de notificação do ano anterior (semana epidemiológica 52 ou 53) e posterior (semana epidemiológica 01).
+ Para cálculo da incidência recomenda-se utilizar locais de residência.
+ Dados de 2014 atualizados em 13/07/2015.
+ Dados de 2015 atualizados em 27/09/2016.
+ Dados de 2016 atualizados em 06/07/2017.
+ Dados de 2017 atualizados em 18/07/2018.
+ Dados de 2018 atualizados em 01/10/2019.
+ Dados de 2019 atualizados em 10/07/2020.
+ Dados de 2020 atualizados em 23/07/2021.
+ Dados de 2021 atualizados em 12/07/2022.
+ Dados de 2022 atualizados em 18/07/2023.
+ Dados de 2023 atualizados em 30/01/2024 às 14 horas, sujeitos a revisão.
+ Dados de 2024 atualizados em 26/02/2024 às 08 horas, sujeitos a revisão.
+ * Dados disponibilizados no TABNET em fevereiro de 2024.
+ 
